@@ -1,17 +1,17 @@
 bundesland,faelle,tod,lat,long,datum
 Baden-Württemberg,182,0,48.5,9.0,2020-03-08
 Bayern,148,0,48.9,11.4,2020-03-08
-Berlin,28,0,53.4,13.2,2020-03-08
-Brandenburg,2,0,52.4,13.0,2020-03-08
+Berlin,28,0,52.5,13.4,2020-03-08
+Brandenburg,2,0,52.0,13.87,2020-03-08
 Bremen,4,0,53.1,8.8,2020-03-08
 Hamburg,13,0,53.5,10.0,2020-03-08
 Hessen,17,0,50.7,9.0,2020-03-08
 Mecklenburg-Vorpommern,7,0,53.8,12.5,2020-03-08
-Niedersachsen,21,0,53.87,9.5,2020-03-08
+Niedersachsen,21,0,52.57,10.0,2020-03-08
 Nordrhein-Westfalen,392,0,51.6,7.5,2020-03-08
 Rheinland-Pfalz,15,0,50.0,7.3,2020-03-08
 Saarland,4,0,49.4,6.97,2020-03-08
 Sachsen,4,0,51.05,13.5,2020-03-08
-Schleswig Holstein,8,0,54.2,9.9,2020-03-08
+Schleswig-Holstein,8,0,54.2,9.9,2020-03-08
 Thüringen,2,0,50.85,11.13,2020-03-08
 Gesamt,847,0,51.06,10.0,2020-03-08
